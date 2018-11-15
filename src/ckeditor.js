@@ -10,7 +10,7 @@ import BlockQuote from '@ckeditor/ckeditor5-block-quote/src/blockquote';
 import Bold from '@ckeditor/ckeditor5-basic-styles/src/bold';
 import EasyImage from '@ckeditor/ckeditor5-easy-image/src/easyimage';
 import Essentials from '@ckeditor/ckeditor5-essentials/src/essentials';
-import Font from '@ckeditor/ckeditor5-font';
+import Font from '@ckeditor/ckeditor5-font/src/font';
 import Heading from '@ckeditor/ckeditor5-heading/src/heading';
 import Image from '@ckeditor/ckeditor5-image/src/image';
 import ImageCaption from '@ckeditor/ckeditor5-image/src/imagecaption';

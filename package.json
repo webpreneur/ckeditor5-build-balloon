@@ -1,5 +1,5 @@
 {
-  "name": "@ckeditor/ckeditor5-build-balloon",
+  "name": "@ckeditor/ckeditor5-custom-build-balloon",
   "version": "11.1.1",
   "description": "The balloon editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
@@ -58,10 +58,9 @@
   "author": "CKSource (http://cksource.com/)",
   "license": "GPL-2.0-or-later",
   "homepage": "https://ckeditor.com",
-  "bugs": "https://github.com/ckeditor/ckeditor5-build-balloon/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-balloon.git"
+    "url": "https://github.com/webpreneur/ckeditor5-custom-build-balloon.git"
   },
   "scripts": {
     "build": "webpack --mode production",
